@@ -1,0 +1,222 @@
+D, [2014-08-10T17:05:31.615147 #24922] DEBUG -- : Calling the index page
+D, [2014-08-10T17:17:42.164297 #24991] DEBUG -- : Calling the index page
+D, [2014-08-10T17:23:18.259132 #25077] DEBUG -- : Calling the index page
+I, [2014-08-10T17:23:21.077081 #25086]  INFO -- : Creating new todo item
+I, [2014-08-10T17:23:24.399760 #25090]  INFO -- : New todo item created: test
+D, [2014-08-10T17:23:24.849569 #25094] DEBUG -- : Calling the index page
+I, [2014-08-10T17:24:47.927342 #25339]  INFO -- : Creating new todo item
+I, [2014-08-10T17:24:55.479864 #25347]  INFO -- : New todo item created: Wim Wauters
+D, [2014-08-10T17:24:56.176774 #25351] DEBUG -- : Calling the index page
+I, [2014-08-10T17:26:41.472153 #25365]  INFO -- : Creating new todo item
+I, [2014-08-10T17:26:44.698832 #25374]  INFO -- : New todo item created: ssss
+D, [2014-08-10T17:26:45.514466 #25378] DEBUG -- : Calling the index page
+D, [2014-08-10T17:26:50.344353 #25386] DEBUG -- : Calling the index page
+I, [2014-08-10T17:26:52.665222 #25391]  INFO -- : Creating new todo item
+I, [2014-08-10T17:26:56.585357 #25394]  INFO -- : New todo item created: ikke
+D, [2014-08-10T17:26:57.242239 #25398] DEBUG -- : Calling the index page
+D, [2014-08-10T17:31:45.214968 #25466] DEBUG -- : Calling the index page
+D, [2014-08-10T17:32:42.090644 #25480] DEBUG -- : Calling the index page
+I, [2014-08-10T17:32:44.061868 #25488]  INFO -- : Creating new todo item
+I, [2014-08-10T17:32:47.569951 #25492]  INFO -- : New todo item created: sss
+D, [2014-08-10T17:32:48.154294 #25496] DEBUG -- : Calling the index page
+D, [2014-08-10T17:35:22.174267 #25520] DEBUG -- : Calling the index page
+D, [2014-08-10T17:36:09.100106 #25543] DEBUG -- : Calling the index page
+D, [2014-08-10T17:41:25.366958 #25593] DEBUG -- : Calling the index page
+D, [2014-08-10T17:42:02.490163 #25603] DEBUG -- : Calling the index page
+D, [2014-08-10T17:42:35.642299 #25611] DEBUG -- : Calling the index page
+I, [2014-08-10T17:42:37.694634 #25618]  INFO -- : Creating new todo item
+I, [2014-08-10T17:42:40.029780 #25621]  INFO -- : New todo item created: ssss
+D, [2014-08-10T17:42:40.495484 #25625] DEBUG -- : Calling the index page
+D, [2014-08-10T17:50:29.932419 #25673] DEBUG -- : Calling the index page
+D, [2014-08-10T17:52:43.478654 #25681] DEBUG -- : Calling the index page
+D, [2014-08-10T17:54:19.917638 #25689] DEBUG -- : Calling the index page
+D, [2014-08-10T17:55:35.790349 #25730] DEBUG -- : Calling the index page
+I, [2014-08-10T17:55:38.300497 #25735]  INFO -- : Creating new todo item
+I, [2014-08-10T17:55:42.017861 #25738]  INFO -- : New todo item created: test
+D, [2014-08-10T17:55:42.531075 #25742] DEBUG -- : Calling the index page
+D, [2014-08-10T17:55:50.562919 #25758] DEBUG -- : Calling the index page
+I, [2014-08-10T17:59:48.156477 #25771]  INFO -- : Creating new todo item
+I, [2014-08-10T17:59:52.984030 #25777]  INFO -- : New todo item created: dirk
+D, [2014-08-10T17:59:53.446397 #25781] DEBUG -- : Calling the index page
+I, [2014-08-10T18:00:04.148953 #25788]  INFO -- : Creating new todo item
+I, [2014-08-10T18:00:06.899873 #25791]  INFO -- : New todo item created: sssssss
+D, [2014-08-10T18:00:07.480400 #25795] DEBUG -- : Calling the index page
+I, [2014-08-10T18:00:27.677370 #25801]  INFO -- : Creating new todo item
+I, [2014-08-10T18:00:30.821987 #25805]  INFO -- : New todo item created: sssssssss
+D, [2014-08-10T18:00:31.290444 #25809] DEBUG -- : Calling the index page
+I, [2014-08-10T18:00:58.486477 #25816]  INFO -- : Creating new todo item
+I, [2014-08-10T18:01:02.620793 #25819]  INFO -- : New todo item created: xews
+D, [2014-08-10T18:01:03.087031 #25822] DEBUG -- : Calling the index page
+D, [2014-08-10T18:02:41.976295 #25832] DEBUG -- : Calling the index page
+I, [2014-08-10T18:02:43.518504 #25838]  INFO -- : Creating new todo item
+I, [2014-08-10T18:02:46.468035 #25841]  INFO -- : New todo item created: nsnsnsns
+D, [2014-08-10T18:02:46.873731 #25844] DEBUG -- : Calling the index page
+D, [2014-08-10T18:04:40.696006 #25851] DEBUG -- : Calling the index page
+D, [2014-08-10T18:04:53.852077 #25858] DEBUG -- : Calling the index page
+D, [2014-08-10T18:05:05.656902 #25863] DEBUG -- : Calling the index page
+D, [2014-08-10T18:05:53.335583 #25869] DEBUG -- : Calling the index page
+I, [2014-08-10T18:05:54.687280 #25876]  INFO -- : Creating new todo item
+I, [2014-08-10T18:05:58.631262 #25879]  INFO -- : New todo item created: ;lm;lm;klm;k
+I, [2014-08-10T18:06:14.739334 #25883]  INFO -- : New todo item created: jknjkjkn
+I, [2014-08-10T18:06:20.457057 #25886]  INFO -- : New todo item created: jknjkjkn
+D, [2014-08-10T18:06:22.768782 #25889] DEBUG -- : Calling the index page
+I, [2014-08-10T18:06:26.508634 #25895]  INFO -- : Creating new todo item
+I, [2014-08-10T18:06:30.020979 #25899]  INFO -- : New todo item created: klmkklm
+D, [2014-08-10T18:07:07.035336 #25903] DEBUG -- : Calling the index page
+I, [2014-08-10T18:07:08.516572 #25910]  INFO -- : Creating new todo item
+I, [2014-08-10T18:07:11.157655 #25913]  INFO -- : New todo item created: sss
+D, [2014-08-10T18:07:13.266196 #25920] DEBUG -- : Calling the index page
+D, [2014-08-10T18:07:55.050877 #25926] DEBUG -- : Calling the index page
+D, [2014-08-10T18:11:40.165370 #25959] DEBUG -- : Calling the index page
+I, [2014-08-10T18:11:46.214675 #25965]  INFO -- : Creating new todo item
+D, [2014-08-10T18:12:39.254831 #25984] DEBUG -- : Calling the index page
+D, [2014-08-10T18:12:44.957428 #26000] DEBUG -- : Calling the index page
+D, [2014-08-10T18:12:48.090103 #26010] DEBUG -- : Calling the index page
+D, [2014-08-10T18:12:55.213794 #26023] DEBUG -- : Calling the index page
+D, [2014-08-10T18:14:57.837731 #26040] DEBUG -- : Calling the index page
+I, [2014-08-10T18:14:59.643120 #26048]  INFO -- : Creating new todo item
+I, [2014-08-10T18:15:02.876283 #26051]  INFO -- : New todo item created: sssssssss
+D, [2014-08-10T18:15:04.741421 #26058] DEBUG -- : Calling the index page
+I, [2014-08-10T18:15:28.294650 #26062]  INFO -- : Creating new todo item
+I, [2014-08-10T18:15:31.483289 #26066]  INFO -- : New todo item created: Wim
+D, [2014-08-10T18:15:31.935402 #26070] DEBUG -- : Calling the index page
+D, [2014-08-10T18:16:39.115851 #26084] DEBUG -- : Calling the index page
+D, [2014-08-10T18:17:09.524226 #26091] DEBUG -- : Calling the index page
+D, [2014-08-10T19:14:12.636275 #27195] DEBUG -- : Calling the index page
+D, [2014-08-10T19:15:12.629804 #27211] DEBUG -- : Calling the index page
+I, [2014-08-10T19:15:14.095530 #27220]  INFO -- : Creating new todo item
+I, [2014-08-10T19:15:18.573145 #27225]  INFO -- : New todo item created: todoos
+D, [2014-08-10T19:15:20.733873 #27233] DEBUG -- : Calling the index page
+D, [2014-08-10T19:15:54.591756 #27258] DEBUG -- : Calling the index page
+D, [2014-08-10T19:17:26.529331 #27300] DEBUG -- : Calling the index page
+D, [2014-08-10T19:17:34.993330 #27320] DEBUG -- : Calling the index page
+I, [2014-08-10T19:17:38.852400 #27326]  INFO -- : Creating new todo item
+I, [2014-08-10T19:17:43.245737 #27329]  INFO -- : New todo item created: test
+D, [2014-08-10T19:17:44.528790 #27337] DEBUG -- : Calling the index page
+D, [2014-08-10T19:17:59.295199 #27357] DEBUG -- : Calling the index page
+D, [2014-08-10T19:20:26.753880 #27371] DEBUG -- : Calling the index page
+D, [2014-08-10T19:20:34.572152 #27391] DEBUG -- : Calling the index page
+D, [2014-08-10T19:23:05.592202 #27413] DEBUG -- : Calling the index page
+I, [2014-08-10T19:23:12.035268 #27423]  INFO -- : Creating new todo item
+I, [2014-08-10T19:23:16.301606 #27427]  INFO -- : New todo item created: test123
+D, [2014-08-10T19:23:17.387525 #27435] DEBUG -- : Calling the index page
+D, [2014-08-10T19:23:34.738398 #27459] DEBUG -- : Calling the index page
+D, [2014-08-10T19:24:37.730197 #27491] DEBUG -- : Calling the index page
+D, [2014-08-10T19:25:52.732784 #27502] DEBUG -- : Calling the index page
+D, [2014-08-10T19:25:59.919441 #27522] DEBUG -- : Calling the index page
+D, [2014-08-10T19:28:04.325567 #27535] DEBUG -- : Calling the index page
+D, [2014-08-10T19:28:36.845182 #27556] DEBUG -- : Calling the index page
+D, [2014-08-10T19:29:06.789837 #27572] DEBUG -- : Calling the index page
+D, [2014-08-10T19:29:22.329456 #27578] DEBUG -- : Calling the index page
+D, [2014-08-10T19:29:28.387041 #27593] DEBUG -- : Calling the index page
+I, [2014-08-10T19:29:32.028093 #27598]  INFO -- : Creating new todo item
+I, [2014-08-10T19:29:38.003552 #27602]  INFO -- : New todo item created: rekke
+D, [2014-08-10T19:29:39.287832 #27610] DEBUG -- : Calling the index page
+D, [2014-08-10T19:29:50.865450 #27626] DEBUG -- : Calling the index page
+D, [2014-08-10T19:31:24.182830 #27640] DEBUG -- : Calling the index page
+D, [2014-08-10T19:31:31.614239 #27659] DEBUG -- : Calling the index page
+D, [2014-08-10T19:32:32.675542 #27668] DEBUG -- : Calling the index page
+I, [2014-08-10T19:32:35.692428 #27677]  INFO -- : Creating new todo item
+I, [2014-08-10T19:32:41.417710 #27682]  INFO -- : New todo item created: wwwww
+D, [2014-08-10T19:32:42.478808 #27690] DEBUG -- : Calling the index page
+D, [2014-08-10T19:33:16.707047 #27719] DEBUG -- : Calling the index page
+D, [2014-08-10T19:34:19.217506 #27733] DEBUG -- : Calling the index page
+I, [2014-08-10T19:34:26.028862 #27747]  INFO -- : Edit: wwwww
+I, [2014-08-10T19:34:26.029050 #27747]  INFO -- : Edit: true
+D, [2014-08-10T19:34:26.529812 #27752] DEBUG -- : Calling the index page
+I, [2014-08-10T19:37:05.709468 #28003]  INFO -- : Creating new todo item
+I, [2014-08-10T19:37:09.270265 #28011]  INFO -- : New todo item created: 1
+D, [2014-08-10T19:37:10.593759 #28019] DEBUG -- : Calling the index page
+I, [2014-08-10T19:37:18.531503 #28031]  INFO -- : Edit: 2
+D, [2014-08-10T19:38:11.053389 #28039] DEBUG -- : Calling the index page
+I, [2014-08-10T19:38:17.591289 #28060]  INFO -- : Edit: 12
+I, [2014-08-10T19:38:17.591482 #28060]  INFO -- : Edit: 
+D, [2014-08-10T19:38:18.102573 #28065] DEBUG -- : Calling the index page
+D, [2014-08-10T19:40:11.925371 #28085] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T19:40:13.934940 #28094]  INFO -- : Creating new todo item
+I, [2014-08-10T19:40:18.496274 #28098]  INFO -- : New todo item created test: eee
+D, [2014-08-10T19:40:19.606286 #28106] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:42:47.273640 #28188] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:42:55.376554 #28200] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:43:17.996217 #28207] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:43:18.522230 #28210] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:43:38.056532 #28217] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:43:38.564098 #28220] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:45:15.266731 #28460] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:45:15.851360 #28463] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:46:25.528083 #28479] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:46:37.863743 #28491] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:46:38.318716 #28494] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T19:46:51.325278 #28504]  INFO -- : Edit: eee123
+I, [2014-08-10T19:46:51.325451 #28504]  INFO -- : Edit: 
+D, [2014-08-10T19:46:51.821096 #28509] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:49:27.837336 #28527] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:49:28.317077 #28530] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:50:58.689203 #28553] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T19:51:00.195392 #28558]  INFO -- : Creating new todo item
+I, [2014-08-10T19:51:03.913151 #28566]  INFO -- : New todo item created test: res
+D, [2014-08-10T19:51:04.442819 #28571] DEBUG -- : Cssalling the index page-Wim
+D, [2014-08-10T19:51:04.892391 #28574] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:52:18.677472 #28584] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T19:53:02.946731 #28595]  INFO -- : Cssalling the index page-Wim
+D, [2014-08-10T19:53:03.427692 #28598] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T19:57:11.668398 #28661] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:13:15.934947 #28815] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:13:24.699442 #28829]  INFO -- : Edit: ssttt
+I, [2014-08-10T20:13:24.699549 #28829]  INFO -- : Edit: 
+D, [2014-08-10T20:13:25.214435 #28834] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:14:44.664832 #28853]  INFO -- : Edit: ssttt
+I, [2014-08-10T20:14:44.664981 #28853]  INFO -- : Edit: true
+D, [2014-08-10T20:14:45.156089 #28858] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:14:51.633833 #28868]  INFO -- : Edit: ssttt12
+I, [2014-08-10T20:14:51.634059 #28868]  INFO -- : Edit: 
+D, [2014-08-10T20:14:52.039816 #28873] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:14:59.202708 #28879]  INFO -- : Creating new todo item
+I, [2014-08-10T20:15:09.346305 #28883]  INFO -- : New todo item created test: test
+D, [2014-08-10T20:15:09.810626 #28888] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:15:10.249926 #28891] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:16:05.420278 #28900]  INFO -- : Creating new todo item
+I, [2014-08-10T20:16:10.753533 #28906]  INFO -- : New todo item created test: 123
+D, [2014-08-10T20:16:11.916393 #28911] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:16:12.407606 #28914] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:16:24.700159 #28926]  INFO -- : Edit: 123456
+I, [2014-08-10T20:16:24.700406 #28926]  INFO -- : Edit: 
+D, [2014-08-10T20:16:25.125168 #28931] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:16:38.369540 #28942]  INFO -- : Edit: 123456
+I, [2014-08-10T20:16:38.369769 #28942]  INFO -- : Edit: true
+D, [2014-08-10T20:16:38.787540 #28947] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:16:45.689291 #28957]  INFO -- : Edit: 12345678
+I, [2014-08-10T20:16:45.692344 #28957]  INFO -- : Edit: 
+D, [2014-08-10T20:16:46.181707 #28962] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:16:55.092740 #28972]  INFO -- : Edit: 123456789
+I, [2014-08-10T20:16:55.093055 #28972]  INFO -- : Edit: true
+D, [2014-08-10T20:16:55.507046 #28977] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:17:29.128946 #28998]  INFO -- : Edit: 12345678909999
+I, [2014-08-10T20:17:29.129211 #28998]  INFO -- : Edit: true
+D, [2014-08-10T20:17:30.964368 #29003] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:17:48.707200 #29020] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:17:49.181860 #29023] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:18:05.672836 #29040] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:18:06.138478 #29043] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:36:05.412311 #29215] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:36:13.137267 #29228]  INFO -- : Edit: ssttt1234
+I, [2014-08-10T20:36:13.137604 #29228]  INFO -- : Edit: 
+D, [2014-08-10T20:36:13.586604 #29233] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:36:20.291327 #29244]  INFO -- : Edit: ssttt1234
+I, [2014-08-10T20:36:20.291585 #29244]  INFO -- : Edit: true
+D, [2014-08-10T20:36:20.761578 #29249] DEBUG -- : Calling the index page-Wim
+D, [2014-08-10T20:37:32.932108 #29259] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:37:38.260751 #29273]  INFO -- : Edit: ssttt1234
+I, [2014-08-10T20:37:38.260973 #29273]  INFO -- : Edit: true
+D, [2014-08-10T20:37:38.690537 #29278] DEBUG -- : Calling the index page-Wim
+I, [2014-08-10T20:37:45.176034 #29289]  INFO -- : Edit: res
+I, [2014-08-10T20:37:45.176258 #29289]  INFO -- : Edit: true
+D, [2014-08-10T20:37:45.615367 #29294] DEBUG -- : Calling the index page-Wim
+D, [2014-08-11T10:18:40.010611 #30354] DEBUG -- : Calling the index page-Wim
+I, [2014-08-11T10:18:46.126900 #30363]  INFO -- : Creating new todo item
+I, [2014-08-11T10:18:52.461344 #30367]  INFO -- : New todo item created test: testRoel
+D, [2014-08-11T10:18:53.376623 #30375] DEBUG -- : Calling the index page-Wim
+I, [2014-08-11T10:19:02.359393 #30387]  INFO -- : Edit: testRoel123
+I, [2014-08-11T10:19:02.359683 #30387]  INFO -- : Edit: true
+D, [2014-08-11T10:19:02.867384 #30392] DEBUG -- : Calling the index page-Wim
+D, [2014-09-12T11:07:23.997517 #4594] DEBUG -- : Calling the index page-Wim
