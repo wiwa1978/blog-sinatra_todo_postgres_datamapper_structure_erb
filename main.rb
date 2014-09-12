@@ -10,7 +10,7 @@ enable :sessions
 configure :development do
    DataMapper.setup(
     :default,
-    'postgres://cisco:cisco123@localhost/test'
+    'postgres://user:user123@localhost/test'
   )
 end
 
